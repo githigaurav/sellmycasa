@@ -26,6 +26,7 @@ const Footer = () => {
             </section>
             <section className='w-full text-center  h-fit col-span-full'>
                 <h3>Copyright@higaurav.com</h3>
+                <span>&#8377</span>
             </section>
         </section>
    
